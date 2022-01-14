@@ -1,10 +1,10 @@
-# Airline Management System(Team-project-muskers)
+# Airline Management System
 
 # Team Members:
-1. Karan Pinakinbhai Jariwala (015214446)
-2. Geetika Kapil (01523348)
-3. Alihussain Ladiwala (015215811)
-4. Sai Nikhil Yandamuri (015229071)
+1. Karan Pinakinbhai Jariwala 
+2. Geetika Kapil 
+3. Alihussain Ladiwala 
+4. Sai Nikhil Yandamuri 
 
 # Tools and Languages:
 
